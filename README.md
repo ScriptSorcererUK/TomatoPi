@@ -1,7 +1,9 @@
 # TomatoPi
 Raspberry Pi-based smart plant monitor and waterer
 
-You can see a video of the project working here https://www.youtube.com/watch?v=MxZpdmxr_Rs
+You can see our advert for the project here https://www.youtube.com/watch?v=MxZpdmxr_Rs
+
+You can see a video of the project working here https://www.youtube.com/watch?v=TPc316BnPFA
 
 You can read why we want to create this project here [project briefing.docx](project%20briefing.docx)
 
